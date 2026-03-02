@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "c:\\Users\\admin\\.vscode\\extensions\\ms-security.ms-sentinel-1.2.0\\python"
+    ],
+    "cSpell.words": [
+        "Dockerized"
+    ]
+}
